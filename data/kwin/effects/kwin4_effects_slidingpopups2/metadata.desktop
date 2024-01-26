@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=sliding popups 2
+Name[zh_CN]=气泡滑动动效2
+Icon=preferences-system-windows-effect-fadingpopups
+Comment=Make popups smoothly slide in and out when they are shown or hidden
+Comment[zh_CN]=气泡信息显示/隐藏时呈现折叠滑动动画
+Type=Service
+X-KDE-ServiceTypes=KWin/Effect
+X-KDE-PluginInfo-Author=kde-yyds
+X-KDE-PluginInfo-Email=kde-yyds@qq.com
+X-KDE-PluginInfo-Name=kwin4_effects_slidingpopups2
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Category=Appearance
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-Ordering=60
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
